@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/antryabov/newsletter-sign-up)
-- Live Site URL: [live site](https://antryabov.github.io//newsletter-sign-up)
+- Live Site URL: [live site](https://antryabov.github.io/newsletter-sign-up)
 
 ## My process
 
