@@ -1,0 +1,25 @@
+:root {
+  --red: hsl(4, 100%, 67%);
+
+  --blue-800: hsl(234, 29%, 20%);
+  --blue-700: hsl(235, 18%, 26%);
+
+  --grey: hsl(0, 0%, 58%);
+
+  --white: hsl(0, 0%, 100%);
+
+  --font-family-base: 'Roboto';
+
+  --font-size-l: clamp(2.5rem, 1.5458rem + 4.0712vw, 3.5rem);
+  --font-size-m: 1rem;
+  --font-size-s: 0.75rem;
+
+  --line-height-xl: 150%;
+  --line-height-base: 100%;
+
+  --border-radius-form: 0.5rem;
+  --border-radius-card: 2.25rem;
+  --border-radius-img: 1rem;
+
+  --transition-duration: 0.2s;
+}
