@@ -274,7 +274,7 @@ h2 {
     --pb-card: clamp(0rem, -2.5048rem + 10.687vw, 2.625rem);
   }
 }
-@media (max-width: 34.375rem) {
+@media (max-width: 37.5rem) {
   .subscribe {
     height: 100%;
     border-radius: 0px;
