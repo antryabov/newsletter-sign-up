@@ -274,9 +274,10 @@ h2 {
     --pb-card: clamp(0rem, -2.5048rem + 10.687vw, 2.625rem);
   }
 }
-@media (max-width: 34.375rem) {
+@media (max-width: 37.5rem) {
   .subscribe {
-    height: 100%;
+    height: max-content;
+    padding-bottom: 2rem;
     border-radius: 0px;
   }
   .subscribe__info {
@@ -286,7 +287,7 @@ h2 {
     display: flex;
     justify-content: center;
     max-width: 100%;
-    height: 100%;
+    height: 100dvh;
     border-radius: 0px;
   }
   .success-form_button {
