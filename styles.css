@@ -276,7 +276,7 @@ h2 {
 }
 @media (max-width: 37.5rem) {
   .subscribe {
-    height: 100%;
+    height: max-content;
     border-radius: 0px;
   }
   .subscribe__info {
